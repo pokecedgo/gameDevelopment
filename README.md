@@ -1,6 +1,9 @@
 # Game Development Projects 
 Fully completed, solo-developed full-stack game projects, designed for marketability and showcasing end-to-end development from design to deployment using various development skill sets from scripting, UI Designing, to 3D modeling.
 
+[Development timelines ranging from 1 to 7 months]
+
+
 **StandsPlaza**
 
 
