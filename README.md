@@ -12,6 +12,9 @@ These projects demonstrate a wide range of development skills, including:
 **Development timelines:** 1–7 months per project
 
 ---
+## Latest Project
+LATEST: https://www.roblox.com/games/87898517018972/Pull-A-Customer
+View Demo Video: https://www.linkedin.com/pulse/modern-ai-optimization-cedric-petilos-m68hc/
 
 ## Featured Projects
 
